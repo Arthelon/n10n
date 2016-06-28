@@ -1,0 +1,4 @@
+{
+  "port": "PORT NUMBER",
+  "dbPath": "USERNAME:PASSWORD@tcp(HOSTNAME:PORT)/DBNAME?charset=utf8mb4&parseTime=True"
+}
